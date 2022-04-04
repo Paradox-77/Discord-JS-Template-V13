@@ -1,0 +1,6 @@
+- [] Add Dev only commands (Push dev only commands to only one server)
+- [] Add DM capabilities to certain commands (To at last as global (/) commands take up to an hour to update)
+- [] Add planned dev commands before music commands (kill, blacklist, whitelist, eval, presence, reload djs client, serverlist)
+- [] Add core commands before music commands (help, ping, bugreport, info, changelog)
+
+- [] Redo logging and config vars

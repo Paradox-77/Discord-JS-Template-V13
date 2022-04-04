@@ -1,0 +1,16 @@
+{
+	"slashCommand": {
+		"clientId": "951836903647359116",
+		"guildId": "951839209956720730"
+	},
+
+	"settings": {
+		"color": "#ED4245",
+		"streamUrl": "https://www.twitch.tv/wardell"
+	},
+
+	"presence": {
+		"default":"Nice one."
+	}
+
+}

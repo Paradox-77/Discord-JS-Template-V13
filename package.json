@@ -1,0 +1,21 @@
+{
+  "name": "dank-apprentice",
+  "version": "1.0.0",
+  "description": "A discord bot made to help you with your adventures with Dank Memer!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "deploy": "node ./scripts/deploy.js"
+  },
+  "author": "Paradox_77",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
